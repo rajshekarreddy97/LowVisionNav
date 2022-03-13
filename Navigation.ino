@@ -10,7 +10,6 @@ const int speaker = 12;
 
 long duration;
 float distanceCm;
-float distanceInch;
 int pos = 0;   // Servo position
 
 
